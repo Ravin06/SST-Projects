@@ -2,10 +2,13 @@
 All the Projects done in Secondary 2
 
 Here are some of the projects done in Secondary 2 in SST.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 L1 Hello World - Hello World in Swift with a click
 L2 Photobook - A book that has some photos which can be added
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Python Projects
 ----------------
 Area of Triangle - Calculates the Area of a triangle
@@ -16,6 +19,16 @@ SPSLS SCisoors paper stone lizard spock - Scissor Paper Stone game but its advan
 Scissors, paper, stone - The original Scissor Paper Stone game
 Steganography - Hiding text in images in a python file
 The Story -  A text story in python
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Scripts
+--------
+Auto Clicker - An auto clicker made in Apple Scripts
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+bonus - a bonus app made in xcode.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Done by:
