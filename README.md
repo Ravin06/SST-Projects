@@ -16,7 +16,8 @@ Python Projects. <br/>
 `Scissors, paper, stone` - The original Scissor Paper Stone game. <br/>
 `Steganography` - Hiding text in images in a python file. <br/>
 `The Story` -  A text story in python. <br/>
-`Pythagoras Theorem` - Pythagoras Theorem in python
+`Pythagoras Theorem` - Pythagoras Theorem in python.  <br/>
+`Barcode create` - Creates a barcode for you.  <br/>
 
 Scripts. <br/>
 --------
