@@ -5,7 +5,7 @@ Here are some of the projects done in Secondary 2 in SST.
 
 `L1 Hello World` - Hello World in Swift with a click. <br/>
 `L2 Photobook` - A book that has some photos which can be added. <br/>
-`CLicker better better` - A clicker app I made <br/>
+`CLicker better better` - A clicker app <br/>
 
 Python Projects. <br/>
 ----------------
